@@ -1,0 +1,2 @@
+This is a second file on Git Hub
+We will use merge to sync this with local repo branch
