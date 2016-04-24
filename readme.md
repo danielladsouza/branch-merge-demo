@@ -3,3 +3,5 @@
 This is a test file for GIT merge and branch
 
 Here is some more info.
+
+Additional line of info...
